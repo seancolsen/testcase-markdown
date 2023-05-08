@@ -1,6 +1,7 @@
 [package]
 name = "testcase-markdown"
 description = "A rust utility to write test cases in markdown"
+repository = "https://github.com/seancolsen/testcase-markdown"
 version = "0.0.1"
 authors = ["Sean Colsen <colsen.sean@gmail.com>"]
 edition = "2021"
